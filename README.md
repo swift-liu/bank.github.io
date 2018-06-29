@@ -5,8 +5,7 @@ there is a change in the new branch
 + idea1
 + idea2
 ## what have do
-. action1
-. action2
+* action1
+* action2
 ## code
-'''
 '''
